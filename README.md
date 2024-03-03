@@ -38,4 +38,4 @@ I am a Full Stack Web Developer
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/codebysid/docs-nextjs13" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=codebysid&repo=docs-nextjs13&title_color=3382ed&text_color=64748b&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/codebysid/docs-nextjs13" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=codebysid&repo=docs-nextjs13&title_color=3382ed&text_color=64748b&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en" /></a><a href="https://github.com/codebysid/crypto-tracker-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=codebysid&repo=crypto-tracker-app&title_color=3382ed&text_color=64748b&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en" /></a></div>
