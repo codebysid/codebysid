@@ -7,9 +7,9 @@ I am a Full Stack Web Developer
 • Did one internship as a MERN Developer • Participating in Hackathons • Completed 2 Freelance Projects
 
 * 🌍  I'm based in Uttar Pradesh, India
-* 🚀  Proof of work 
-* 1) [Next Drive: A Google Drive Clone](http://next-drive-app.vercel.app/)
-* 2) [Formify: Create Public Multi Step Forms and Collect Data](https://formify-site.vercel.app/)
+* 🚀  Proof of work:-
+  1) [Next Drive: A Google Drive Clone](http://next-drive-app.vercel.app/)
+  2) [Formify: Create Public Multi Step Forms and Collect Data](https://formify-site.vercel.app/)
 * 🧠  Currently learning Solidity
 
 ### Skills
