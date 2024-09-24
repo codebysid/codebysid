@@ -4,13 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a Full Stack Web Developer
 -------------------------------
 
-• Did one internship as a MERN Developer • Participating in Hackathons • Completed 2 Freelance Projects
+• Did 2 internships as Full Stack Developer at startups • Participating in Hackathons • Completed multiple Freelance Projects
 
 * 🌍  I'm based in Uttar Pradesh, India
 * 🚀  Proof of work:-
-  1) [Next Drive: A Google Drive Clone](http://next-drive-app.vercel.app/)
+  1) [Finora: Manage your expenses smoothly](https://finora.vercel.app/)
   2) [Formify: Create Public Multi Step Forms and Collect Data](https://formify-site.vercel.app/)
-* 🧠  Currently learning Solidity
+  3) [Next Drive: A Google Drive Clone](http://next-drive-app.vercel.app/)
+* 🧠  Currently learning Rust
 
 ### Skills
 
