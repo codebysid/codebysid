@@ -4,14 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a Full Stack Web Developer
 -------------------------------
 
-• Did 2 internships as Full Stack Developer at startups • Participating in Hackathons • Completed multiple Freelance Projects
+• With 1+ year of experience of working in several startups and freelancing work in building amazing and useful projects for the users
 
-* 🌍  I'm based in Uttar Pradesh, India
 * 🚀  Proof of work:-
-  1) [Finora: Manage your expenses smoothly](https://finora.vercel.app/)
-  2) [Formify: Create Public Multi Step Forms and Collect Data](https://formify-site.vercel.app/)
-  3) [Next Drive: A Google Drive Clone](http://next-drive-app.vercel.app/)
-* 🧠  Currently learning Rust
+  1) [Fav AI Chat: Chrome extension to mark your ChatGPT chats as favorite for quick access, ultimately boosting your productivity](https://favaichat.vercel.com)
+  2) [Finora: Manage your expenses smoothly](https://finora.vercel.app/)
+  3) [Formify: Create Public Multi Step Forms and Collect Data](https://formify-site.vercel.app/)
+  4) [Next Drive: A Google Drive Clone](http://next-drive-app.vercel.app/)
+* 🧠  Exploring life
 
 ### Skills
 
