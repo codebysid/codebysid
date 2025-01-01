@@ -7,7 +7,7 @@ I am a Full Stack Web Developer
 • With 1+ year of experience of working in several startups and freelancing work in building amazing and useful projects for the users
 
 * 🚀  Proof of work:-
-  1) [Fav AI Chat: Chrome extension to mark your ChatGPT chats as favorite for quick access, ultimately boosting your productivity](https://favaichat.vercel.com)
+  1) [Fav AI Chat: Chrome extension to mark your ChatGPT chats as favorite for quick access, ultimately boosting your productivity](https://favaichat.vercel.app/)
   2) [Finora: Manage your expenses smoothly](https://finora.vercel.app/)
   3) [Formify: Create Public Multi Step Forms and Collect Data](https://formify-site.vercel.app/)
   4) [Next Drive: A Google Drive Clone](http://next-drive-app.vercel.app/)
