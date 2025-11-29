@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a Full Stack Web Developer
 -------------------------------
 
-• With 1+ year of experience of working in several startups and freelancing work in building amazing and useful projects for the users
+• With 2+ year of experience of working in several startups and freelancing work in building amazing and useful projects for the users
 
 * 🚀  Proof of work:-
   1) [Fav AI Chat: Chrome extension to mark your ChatGPT chats as favorite for quick access, ultimately boosting your productivity](https://favaichat.vercel.app/)
